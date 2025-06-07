@@ -11,5 +11,5 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 | 5 |[Storytelling with Data Project](https://public.tableau.com/views/StorytellingwithData-Project-3/FinalSprint5DB?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)|The project task prepares an analysis for the CEO of the Superstore to help them understand what is causing customers to return their orders and how to reduce the volume of returned orders.|
 | * |[Tableau Story for Project](https://www.loom.com/share/a048519b88714a2a84daf678df53fb65?sid=6a911d43-b7fa-4983-b920-6e75a49c6777)|Tableau Story Telling video.|
 | 6 |[Power BI Shopify Project](https://github.com/tyronegit/Power-BI-Projects/blob/main/Sprint%206%20-%20Power%20BI%20Project_Shopify.pdf) | Power BI report analyzing Shopify data.|
-| 7 |[Spreadsheet Data Analysis Project](https://docs.google.com/spreadsheets/d/1191ZzhT2gw5xksp6r_WIjS5xliykuWjOQH3wn2hSz14/edit?usp=sharing)| The project task helps a client analyze the Manhattan vacation rental market.|
+| 7 |[Zomato Customer Analysis Segmentation](https://github.com/tyronegit/Project-7)| The project task is to analyze the business performance of restaurants and customers registered in the service.|
 
