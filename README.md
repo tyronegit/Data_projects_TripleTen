@@ -11,4 +11,5 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 | 5 |[Storytelling with Data Project](https://public.tableau.com/views/StorytellingwithData-Project-3/FinalSprint5DB?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)|The project task was to prepare an analysis for the CEO of the Superstore to help them understand what is causing customers to return their orders and how to reduce the volume of returned orders.|
 | 6 |[Tableau Story for Project](https://www.loom.com/share/a048519b88714a2a84daf678df53fb65?sid=6a911d43-b7fa-4983-b920-6e75a49c6777)|Tableau Story Telling video
 | 7 |[Power BI Project](https://www.loom.com/share/a048519b88714a2a84daf678df53fb65?sid=6a911d43-b7fa-4983-b920-6e75a49c6777)|Power BI projects
+| 8 | [Power BI Shopify Project](https://github.com/tyronegit/Power-BI-Projects/blob/main/Sprint%206%20-%20Power%20BI%20Project_Shopify.pdf) | Power BI report analyzing Shopify data. |
 
