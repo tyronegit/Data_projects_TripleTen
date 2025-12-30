@@ -1,5 +1,59 @@
-# business-intelligence-analytics
-Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
+# Business Intelligence & Data Analytics Portfolio
+
+This repository contains end-to-end data analytics and business intelligence projects
+completed as part of the TripleTen Business Intelligence Analyst program and externship experience.
+
+The projects demonstrate the full analytics workflow:
+data preparation, SQL analysis, KPI development, and dashboard-driven insights
+using Power BI, Tableau, and Excel.
+
+---
+
+## Core Skills Demonstrated
+
+- SQL (data cleaning, joins, CTEs, window functions)
+- Data preparation & analytics-ready datasets
+- KPI definition and business metrics analysis
+- Power BI & Tableau dashboard development
+- Excel-based analysis and reporting
+- Stakeholder-focused data storytelling
+
+---
+
+## Project Portfolio
+
+| # | Project | Focus & Business Outcome |
+|---|--------|--------------------------|
+| 1 | **Spreadsheet Data Analysis Project** | Analyzed Manhattan vacation rental data to identify pricing and demand trends for client decision-making |
+| 2 | **Fresh Beats Analysis** | Delivered insights on customer behavior and product performance to support business growth decisions |
+| 3 | **Data Visualization Project** | Reviewed superstore operations and profitability to identify improvement opportunities and risk reduction |
+| 4 | **Tableau Containers Project** | Built dashboards to analyze order and profit metrics by day of week and region |
+| 5 | **Storytelling with Data Project** | Analyzed return behavior to identify root causes and recommend strategies to reduce return rates |
+| * | **Tableau Storytelling Project** | Executive-level Tableau story presentation summarizing key findings |
+| 6 | **Power BI Shopify Project** | Analyzed 1,000+ Shopify apps to identify top-performing categories and growth trends |
+| 7 | **Zomato Customer Segmentation** | Used SQL and Tableau to segment customers and identify high-value groups driving revenue |
+
+---
+
+## Tools & Technologies
+
+- SQL (PostgreSQL)
+- Power BI
+- Tableau / Tableau Public
+- Excel (PivotTables, KPIs, forecasting)
+- Python (Pandas – where applicable)
+- Git / GitHub
+
+---
+
+## Portfolio Dashboards
+
+Links to interactive dashboards are included within individual project folders:
+- Tableau Public dashboards
+- Power BI reports
+
+Each project folder contains datasets, analysis scripts, and documentation
+describing the business problem, analytical approach, and insights delivered.
 
 
 | Project number | Title | Description |
