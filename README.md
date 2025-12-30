@@ -12,7 +12,7 @@ using Power BI, Tableau, and Excel.
 ## Core Skills Demonstrated
 
 - SQL (data cleaning, joins, CTEs, window functions)
-- Data preparation & analytics-ready datasets
+- Data preparation, transformation, and analytics-ready datasets
 - KPI definition and business metrics analysis
 - Power BI & Tableau dashboard development
 - Excel-based analysis and reporting
