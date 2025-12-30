@@ -25,7 +25,7 @@ using Power BI, Tableau, and Excel.
 | # | Project | Focus & Business Outcome |
 |---|--------|--------------------------|
 | 1 | **Spreadsheet Data Analysis Project** | Analyzed Manhattan vacation rental data to identify pricing and demand trends for client decision-making |
-| 2 | **Fresh Beats Analysis** | Delivered insights on customer behavior and product performance to support business growth decisions |
+| 2 | **Fresh Beats Analysis** | Delivered insights on customer behavior and product performance to support data-driven growth decisions |
 | 3 | **Data Visualization Project** | Reviewed superstore operations and profitability to identify improvement opportunities and risk reduction |
 | 4 | **Tableau Containers Project** | Built dashboards to analyze order and profit metrics by day of week and region |
 | 5 | **Storytelling with Data Project** | Analyzed return behavior to identify root causes and recommend strategies to reduce return rates |
