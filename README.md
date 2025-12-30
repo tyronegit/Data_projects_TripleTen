@@ -5,7 +5,7 @@ completed as part of the TripleTen Business Intelligence Analyst program and ext
 
 The projects demonstrate the full analytics workflow:
 data preparation, SQL analysis, KPI development, and dashboard-driven insights
-using Power BI, Tableau, and Excel.
+using Power BI, Tableau, Excel and Googlesheets.
 
 ---
 
